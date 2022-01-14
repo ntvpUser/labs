@@ -12,6 +12,7 @@ namespace View
             InitializeComponent();
         }
 
+        //For git changes
         private void button1_Click(object sender, EventArgs e)
         {
             Form1 frm = (Form1)this.Owner;
